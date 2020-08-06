@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Oauth-app-test"
+    }
+  },
+  "defaultProject": "Oauth-app-test",
+  "cli": {
+    "analytics": "6ab184de-18a0-4871-9b16-9658c6c2383a"
+  }
 }
